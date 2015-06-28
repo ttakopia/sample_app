@@ -4,7 +4,12 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.5'
 gem 'bootstrap-sass', '2.3.2.0'
+<<<<<<< HEAD
 gem 'sprockets', '2.12.4'
+=======
+gem 'sprockets', '2.12.3'
+gem 'bcrypt-ruby', '3.1.2'
+>>>>>>> filling-in-layout
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
